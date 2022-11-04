@@ -37,7 +37,7 @@ TEST_CASE("search")
 
 TEST_CASE("tree")
 {
-      node *root = make_node (4,
+     Bnode *root = make_node (4,
 			  make_node (7,
 				     make_node (28,
 						make_node (77,
